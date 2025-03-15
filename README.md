@@ -1,3 +1,3 @@
-# PortfolioAngular
+# My Portfolio
 
 TODO :)
